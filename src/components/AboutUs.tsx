@@ -44,7 +44,7 @@ export const AboutUs = () => {
     <section
       id="about"
       ref={aboutSectionRef}
-      className="min-h-dvh bg-blue-75 overflow-hidden py-28 w-full relative"
+      className="min-h-dvh bg-blue-75 overflow-hidden pt-28 w-full relative"
     >
       <div className="text-center space-y-8 ">
         <p className="text-[10px] font-general">Welcome To Zentry</p>

@@ -45,6 +45,12 @@
     -ms-transform: translate3d(10px, 51px, -60px) rotateY(60deg) rotateX(-40deg);
     -o-transform: translate3d(10px, 51px, -60px) rotateY(60deg) rotateX(-40deg);
   }
+  .bento-title {
+    @apply font-zentry text-3xl md:text-6xl ;
+  }
+  .grid-2{
+    @apply col-span-1 row-span-1;
+  }
 }
  {
   /* From Uiverse.io by G4b413l */
